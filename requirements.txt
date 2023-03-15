@@ -3,3 +3,4 @@ yt-dlp>=2023.3.4
 loguru
 pytest
 unittest2
+pylint
