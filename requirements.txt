@@ -1,5 +1,5 @@
 python-telegram-bot==13.7
-youtube-dl>=2023.2.17
+youtube-dl>=2021.1.10
 loguru
 pytest
 unittest2
